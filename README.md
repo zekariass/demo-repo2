@@ -6,3 +6,4 @@ This is the second repo for training
 
 1. add demo file named index.html
 2. open the file in browser
+3. finish
